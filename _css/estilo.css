@@ -1,0 +1,31 @@
+table,
+td, th {
+    border: 1px solid #f80707;
+    text-align: center;
+}
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+.rosa{
+    color: #0763f8;
+}
+h1{
+    color: #ff0000;
+    font-size: 35px;
+}
+h3{
+    color: rgb(0, 119, 255);
+}
+li{
+    color: rgb(255, 0, 0);
+}
+a{
+    color: #000000;
+}
+img{
+    display: inline-block;
+    height: 350px;
+    width: 375px;
+  }
